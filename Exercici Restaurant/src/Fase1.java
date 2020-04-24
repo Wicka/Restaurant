@@ -18,6 +18,19 @@ public class Fase1 {
 		
 		String [] Platos = new String[5];		//DOS ARRAY UNO PARA GUARDAR LOS CINCO PLATOS 
 		int[] Precios= new int[5];				//Y EL ARRAY PARA GUARDAR LOS PRECIOS DE CADA PLATOS TAMBIEN DE 5
+		
+		Platos[0]="1. Arroz caldoso con Bogavante ";
+		Platos[1]="2. Ensalada tibia con Queso de cabra ";
+		Platos[2]="3. Lasaña de verduras y piñones ";
+		Platos[3]="4. Rodaballo salvaje al horno ";
+		Platos[4]="5. Chuleton de Avila 800 gr.";
+		
+		Precios[0]= 23;
+		Precios[1]= 11;
+		Precios[2]= 18;
+		Precios[3]= 34;
+		Precios[4]= 28;
+		
 	}
 
 }
