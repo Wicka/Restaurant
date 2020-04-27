@@ -49,10 +49,10 @@ public class Fase2 {
 		
 		}
 	
-		System.out.println(" --------------- MENU ---------------- ");			//IMPRIMO POR CONSOLA EL LISTADO DE PLATOS CON SUS PRECIOS
+		System.out.println(" --------------- MENU ---------------- "+"<br><br>");			//IMPRIMO POR CONSOLA EL LISTADO DE PLATOS CON SUS PRECIOS
 		
 		for (i=0; i < 5 ; i++) {
-			System.out.println((i+1) +" -- "+ nombre[i] + " Plato :  " + Platos[i] + "-----  Precio : " + Precios[i]);
+			System.out.println((i+1) +" -- "+ nombre[i] + " Plato :  " + Platos[i] + "-----  Precio : " + Precios[i]+"<br><br>");
 			
 		}
 		
