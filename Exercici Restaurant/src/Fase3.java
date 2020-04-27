@@ -121,7 +121,6 @@ public static void main(String[] args) {
 		System.out.println("Tu pedido contiene los siguientes platos : ---" + Pedidos + "\n");				//IMPRIMO MSJ POR CONSOLA
 		System.out.println("Solo Podemos servirte estos Platos : --------- " + comanda + "\n");
 		System.out.println("Tu pedido tiene un Precio Total de : --------- " + precioTotal+ "€ \n" );
-			
 		System.out.println("Y nuestro menu es: ---------- "  + Arrays.toString(arryMenu) + "\n");
 		System.out.println("Y nuestros Precios son: ----- " + Arrays.toString(arryPrecios) + "\n");
 		
